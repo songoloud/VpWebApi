@@ -1,0 +1,5 @@
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\AwsAuthentification\bin\Debug\AwsAuthentification.dll
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\AwsAuthentification\bin\Debug\AwsAuthentification.pdb
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\AwsAuthentification\obj\Debug\AwsAuthentification.csproj.CoreCompileInputs.cache
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\AwsAuthentification\obj\Debug\AwsAuthentification.dll
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\AwsAuthentification\obj\Debug\AwsAuthentification.pdb

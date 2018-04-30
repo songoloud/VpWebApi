@@ -1,0 +1,10 @@
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\TestAwsAuthentification\obj\Debug\TestAwsAuthentification.csproj.CoreCompileInputs.cache
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\TestAwsAuthentification\obj\Debug\TestAwsAuthentification.csprojResolveAssemblyReference.cache
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\TestAwsAuthentification\bin\Debug\TestAwsAuthentification.exe.config
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\TestAwsAuthentification\bin\Debug\TestAwsAuthentification.exe
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\TestAwsAuthentification\bin\Debug\TestAwsAuthentification.pdb
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\TestAwsAuthentification\bin\Debug\AwsAuthentification.dll
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\TestAwsAuthentification\bin\Debug\AwsAuthentification.pdb
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\TestAwsAuthentification\obj\Debug\TestAwsAuthentification.csproj.CopyComplete
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\TestAwsAuthentification\obj\Debug\TestAwsAuthentification.exe
+c:\Users\formation\documents\visual studio 2017\Projects\VPWebApi\TestAwsAuthentification\obj\Debug\TestAwsAuthentification.pdb
