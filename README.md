@@ -24,8 +24,7 @@ VpWebApi contient deux web service :
    si elles sont identiques je l'accepte sinon rejeté 
    
    pour le test:
-      - pour  /api/authenticate ya un projet de test unitaires pour valider l'api !
-      
+      - pour  /api/authenticate ya un projet de test unitaires pour valider l'api. 
       - pour /api/confidentials tester a partir d'une application console TestAwsAuthentification pour construire la signature et mettre les headers de la requête
    
    
