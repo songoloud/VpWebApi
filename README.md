@@ -9,7 +9,7 @@ VpWebApi contient deux web service :
   -/api/confidentials : prend en paramètre  (email) et pour authentifier  le user la methode 
    http://docs.aws.amazon.com/AmazonS3/latest/dev/RESTAuthentication.html a été implémenter 
    
-   et pour cela je me suis servie de l'exemple fournie par amazone : https://docs.aws.amazon.com/AmazonS3/latest/API/sig-v4-examples-using-sdks.html
+   et pour cela je me suis servie de l'exemple fournie par amazone  : https://docs.aws.amazon.com/AmazonS3/latest/API/sig-v4-examples-using-sdks.html
    
    pour créer  la signature,
   
@@ -22,5 +22,11 @@ VpWebApi contient deux web service :
    
    je recalcule la signature et je la compare avec celle envoyé dans la requête,
    si elles sont identiques je l'accepte sinon rejeté 
+   
+   pour le test:
+      - pour  /api/authenticate ya un projet de test unitaires pour valider l'api !
+      
+      - pour /api/confidentials tester a partir d'une application console TestAwsAuthentification pour construire la signature et mettre les headers de la requête
+   
    
    
